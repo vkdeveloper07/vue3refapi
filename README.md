@@ -17,6 +17,6 @@ This project uses basic html and css to show how we can use 'ref' api with simpl
 1) Clone the repository on your local machine.
 2) Open Windows Terminal or command prompt and go to the project location.
 3) Run the following command
-    npm install
-    npm run dev
+    -npm install
+    -npm run dev
 4) Open the given link in the browser.
